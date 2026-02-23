@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.port": 1024,
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true
+}

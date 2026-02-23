@@ -1,0 +1,5 @@
+export const CONSTANTS = {
+    SUCCESS: 200,
+    VALIDATION_ERROR: 400,
+    ERROR: 500
+}
